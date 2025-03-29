@@ -8,7 +8,8 @@ Acosta Berrelleza Kenia Celeste
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo@tectijuana.edu.mx
 
 ## Objetivos general
-
+Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente
+con encsema (caso) presente la misma presion alveolar que un individuo sano (control).
 ## Actividades
 1.Establecer el modelo de ecuaciones integro-diferenciales.
 2.Calcular la función de transferencia.
